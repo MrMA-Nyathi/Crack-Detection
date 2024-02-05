@@ -2,7 +2,7 @@ This public repository contains the data and code used in the development of the
 
 References
 
-[1] Nyathi, M.A.; Bai, J.; Wilson, I.D. (2024), “NYA-Crack-Data: A High Variability Concrete Crack Dataset for Enhanced Model Generalisation”, Mendeley Data, V1, https://doi.org/10.17632/z93rb2m4fk.1 [awaiting doi to go live]
+[1] Nyathi, M.A.; Bai, J.; Wilson, I.D. (2024), “NYA-Crack-Data: A High Variability Concrete Crack Dataset for Enhanced Model Generalisation”, Mendeley Data, V1, https://doi.org/10.17632/z93rb2m4fk.1
 
 [2] Dorafshan, S.; Thomas, R.J.; Maguire, M. SDNET2018: An Annotated Image Dataset for Non-Contact Concrete Crack Detection Using Deep Convolutional Neural Networks. Data Brief 2018, 21, 1664–1668. https://doi.org/10.1016/J.DIB.2018.11.015.
 
